@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MapSearchAutocomplete</string>
+    <string name="str_input_hint">예) 맛집</string>
+</resources>
